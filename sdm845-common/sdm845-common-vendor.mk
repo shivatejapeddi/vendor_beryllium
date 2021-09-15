@@ -979,7 +979,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     uceShimService \
-    qti-telephony-common \
     qcrilmsgtunnel \
     manifest_android.hardware.drm@1.3-service.clearkey \
     manifest_android.hardware.drm@1.3-service.widevine \
